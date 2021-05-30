@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValheimMod", "ValheimMod\ValheimMod.csproj", "{0BBC3410-4A7E-458D-81F9-2CD0DE6282C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomSpawner", "ValheimMod\RandomSpawner.csproj", "{0BBC3410-4A7E-458D-81F9-2CD0DE6282C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

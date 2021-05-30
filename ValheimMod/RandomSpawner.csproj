@@ -56,7 +56,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ValheimMod.cs" />
+    <Compile Include="Patches\SpawnAreaPatches.cs" />
+    <Compile Include="Patches\ZNetScenePatches.cs" />
+    <Compile Include="RandomSpawner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
