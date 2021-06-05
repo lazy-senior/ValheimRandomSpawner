@@ -10,9 +10,9 @@ namespace RandomSpawner
     [BepInProcess("valheim.exe")]
     public class RandomSpawner : BaseUnityPlugin
     {
-        private const string GUID = "lazysenior.ValheimMod";
-        private const string Name = "ValheimMod by Lazy-Senior";
-        private const string Version = "0.0.0.2";
+        private const string GUID = "lazysenior.Valheim.RandomSpawner";
+        private const string Name = "RandomSpawner";
+        private const string Version = "1.0";
         private readonly Harmony harmony = new Harmony(GUID);
 
         public static List<GameObject> Charaters = new List<GameObject>();
