@@ -7,3 +7,6 @@ These monsters change everytime you go near a spawner.
 
 - [BepInEx](https://github.com/BepInEx/BepInEx/releases)
 
+### Installation
+
+Copy the dll to valheim/bepinex/plugins/
