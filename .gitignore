@@ -364,3 +364,10 @@ FodyWeavers.xsd
 
 #Valheim Resource
 UnityExport/
+/ExampleAxe/libs/0Harmony.dll
+/ExampleAxe/libs/assembly_utils.dll
+/ExampleAxe/libs/assembly_valheim.dll
+/ExampleAxe/libs/BepInEx.dll
+/ExampleAxe/libs/UnityEngine.AssetBundleModule.dll
+/ExampleAxe/libs/UnityEngine.CoreModule.dll
+/ExampleAxe/libs/UnityEngine.dll
